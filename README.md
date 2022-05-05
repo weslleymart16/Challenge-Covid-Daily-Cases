@@ -1,27 +1,36 @@
-# MyApp
+# Challenge Covid Daily Cases
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
+Frontend Angular Developer 🏅 2022
 
-## Development server
+O desafio proposto era desenvolver uma pagina que exibisse o número de casos de covid por país, dia e variante. Para isso seria necessário gerar um gráfico mostrando o mapa mundi. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Técnologias usadas 
 
-## Code scaffolding
+ - Angular 
+ - HTML5
+ - SASS
+ - Angular Material
+ - Bootstrap
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Servidor de Desenvolvimento
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+No terminal de comando baixe as dependências `npm i`.
 
-## Running unit tests
+Após instalado o nodemodels, execute `ng serve` para um servidor dev. Navegue até  `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Video de apresentação 
 
-## Running end-to-end tests
+https://www.loom.com/embed/4a0f2845d45b416891a95554d134b755
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+![image](https://user-images.githubusercontent.com/90733315/166984280-3e5ccbf9-f4eb-4f91-a921-833c779b3282.png)
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+<div align="center">
+<p>This is a challenge by Coodesh</p>  
+<p><i>Developed by <a href="https://www.linkedin.com/in/weslley-martins-188614227/">Weslley Martins</i></p>
+</div>
+
+
