@@ -8,7 +8,7 @@ O desafio proposto era desenvolver uma pagina que exibisse o número de casos de
 
  - Angular 
  - HTML5
- - CSS3
+ - SASS
  - Angular Material
  - Bootstrap
 
@@ -18,6 +18,10 @@ O desafio proposto era desenvolver uma pagina que exibisse o número de casos de
 No terminal de comando baixe as dependências `npm i`.
 
 Após instalado o nodemodels, execute `ng serve` para um servidor dev. Navegue até  `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
+
+## Video de apresentação 
+
+https://www.loom.com/embed/4a0f2845d45b416891a95554d134b755
 
 ![image](https://user-images.githubusercontent.com/90733315/166984280-3e5ccbf9-f4eb-4f91-a921-833c779b3282.png)
 
