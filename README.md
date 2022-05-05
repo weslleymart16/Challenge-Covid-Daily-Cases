@@ -25,7 +25,7 @@ Após instalado o nodemodels, execute `ng serve` para um servidor dev. Navegue a
 ---
 
 <div align="center">
-<p>Challenge by Coodesh</p>  
+<p>This is a challenge by Coodesh</p>  
 <p><i>Developed by <a href="https://www.linkedin.com/in/weslley-martins-188614227/">Weslley Martins</i></p>
 </div>
 
