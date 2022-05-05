@@ -1,0 +1,48 @@
+.main-slider {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+}
+
+.main-slider::ng-deep  .mat-slider:not(.mat-slider-disabled).cdk-focused .mat-slider-thumb-label {
+  border-radius: 2px !important;
+  background-color: white;
+  border: 1px solid rgb(113, 109, 109);
+  width: 100px;
+  transform: rotate(0deg) !important;
+}
+
+.main-slider::ng-deep .mat-slider-horizontal .mat-slider-thumb-label {
+  transform: translateY(26px) scale(0.01) rotate(0deg) !important;
+}
+
+.main-slider::ng-deep .cdk-focused .mat-slider-thumb-label-text {
+  transform: rotate(0deg) !important;
+  color: rgba(5, 5, 5, 0.867);
+}
+
+.main-slider mat-slider {
+  width: 1100px;
+}
+
+.slider-date {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.date {
+  display: flex;
+  justify-content: space-around;
+}
+
+.maps {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 0 80px;
+  iframe {
+    width: 1000px;
+  }
+}
+
